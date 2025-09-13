@@ -1,2 +1,2 @@
-# ssgs-labo-03
-Laboratorio di recupero, corso "Strumenti per lo sviluppo e gestione del software", A.A. 2024/25
+# Password Strength Toolkit
+Questo progetto consente di analizzare una password fornita da riga di comando e restituire un'analisi della sua robustezza basata su un set di regole.
